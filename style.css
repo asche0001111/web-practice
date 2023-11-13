@@ -23,6 +23,11 @@ pre {
     font-family: monospace;
     font-weight: 600;
     color: rgb(143, 44, 44);
+    display: flex;
+     justify-content: center;
+    align-items: center;
+    height: 70vh;
+    margin: 0;
 }
 
 div.container {
